@@ -1,0 +1,31 @@
+body{
+    font-family:monospace;
+}
+
+h1 {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2 {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+table {
+    width: 100%;
+    border: 1em;
+    border: 10px solid black;
+}
+.title {
+    background-color: bisque;
+    text-align: center;
+    border:black;
+}
+td  {
+    text-align:left center;
+    border-style:solid;
+}
+th  {
+    background-color: salmon;
+}
